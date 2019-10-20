@@ -1,6 +1,6 @@
 import datajoint as dj
 
-schema = dj.schema('pni_microscope')
+schema = dj.schema('U19_microscope')
 
 
 @schema
